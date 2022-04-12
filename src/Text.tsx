@@ -88,9 +88,9 @@ const text = {
             title: 'Courses & Schools',
             courses: [{
                 title: 'JS, React, Redux for programmers at Coderslab', 
-                description: "I've had a great 130 hours of improving my React/Redux skills. "+
+                description: "I’ve had a great time working with React, improving my skills. "+
                 "Learned a lot about the Ecosystem and how to manage it. "+
-                "I've also gained understanding of good coding practices. "+
+                "I’ve also gained understanding of good coding practices. "+
                 "Ready to use my knowledge on a daily basis"
             },{
                 title: 'Front End Engineer Career Path at Codecademy',
@@ -114,9 +114,9 @@ const text = {
                 description: "Focused on graphics that can be viewed on a screen. "+
                 "The projects were mainly related to film and animation, but also "+
                 "UX and UI design of applications and websites. In addition to digital "+
-                "image and sound processing, I also created storyboards and my "+
-                "own movies. I used Adobe Premiere, After Effects and other software. "+
-                "I improved my digital photography skills."
+                "image and sound processing, I’ve also implemented storyboards trough creation of my "+
+                "own movies. In my projects I’ve used Adobe Premiere and After Effects "+
+                "and improved my digital photography skills."
             }]
         },
         projects: [{
@@ -147,9 +147,9 @@ const text = {
         about: {
             title: 'About me',
             description: 'I am aspiring to be the best front end developer ever. '+
-            'Currently learning by my own, from home after working hours, '+
-            'but I Hope to get a well paid job and to serve people with '+
-            'my skills, and improve them constantly'
+            'Currently learning by my own from home after working hours, '+
+            'but I Hope to get a well paid job and serve people with '+
+            'my skills and improve them constantly'
         },
         footer: {
             title: 'Contact me',
