@@ -2,7 +2,7 @@ const text = {
     pl: {
         header:{
             title: 'Dawid Dębiec',
-            presentation: 'Zapalony hobbista, programista po kursach, który szuka okazji do zmiany pracy',
+            presentation: 'Zapalony programista po kursach, który szuka okazji do zmiany pracy',
             shortIntro: 'Poniżej moje projekty i krótki opis doświadczenia'
         },
         courses: {
@@ -10,8 +10,8 @@ const text = {
             courses: [{
                 title: 'JS, React, Redux programistyczny bootcamp w Coderslab', 
                 description: "Dowiedziałem podczas kursu dużo o dobrych praktykach "+
-                "w programowaniu, oraz doszlifowałem wiedzę o Redux. "+
-                "Warto również wspomnieć że dowiedziałem się o nowościach w ES6"
+                "w programowaniu oraz doszlifowałem wiedzę o Redux. "+
+                "Warto również wspomnieć, że dowiedziałem się o nowościach w ES6"
             },{
                 title: 'Front End Engineer Career Path na Codecademy',
                 description: "350 godzinny kurs, 71 Projektów, oraz 121 Lekcji. "+
@@ -56,15 +56,15 @@ const text = {
             title: 'O mnie',
             description: 'Uczę się na własną rękę po pracy co wcale nie jest proste, '+
             'wymaga dużego zaangażowania i samozaparcia, ale wierzę że warto. '+
-            'Chcę znaleźć pracę w której będę mógł rozwijać dalej swoje umiejętności. '+
-            'Wybrałem programowanie ponieważ jest to najbardziej rozwijająca się dziedzina, '+
-            'uwielbiam wyzwania i rozwiązywanie problemów sprawia mi frajdę. Jeżeli szukasz programisty skontaktuj się ze mną'
+            'Chcę znaleźć pracę, w której będę mógł dalej rozwijać swoje umiejętności, ale znacznie szybciej. '+
+            'Wybrałem programowanie, ponieważ jest to najbardziej rozwijająca się dziedzina. '+
+            'Uwielbiam wyzwania, a rozwiązywanie problemów sprawia mi frajdę. Jeżeli szukasz programisty skontaktuj się ze mną'
         },
         footer: {
             title: 'Kontakt',
             links: [
                 {
-                    name: 'e-mail', 
+                    name: 'E-Mail', 
                     url: 'mailto:dawiddebiecx@gmail.com'
                 }, {
                     name: 'LinkedIn', 
@@ -155,7 +155,7 @@ const text = {
             title: 'Contact me',
             links: [
                 {
-                    name: 'e-mail', 
+                    name: 'E-Mail', 
                     url: 'mailto:dawiddebiecx@gmail.com'
                 }, {
                     name: 'LinkedIn', 
