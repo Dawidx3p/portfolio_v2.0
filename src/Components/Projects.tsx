@@ -5,7 +5,7 @@ import { Props } from './Homepage';
 const Projects = (props:Props) => {
     return(
         <section>
-            <h1>Projects</h1>
+            <h1>{props.language==='en' ? 'Projects': 'Projekty'}</h1>
             {text[props.language].projects.map((project, key) => <div key={key} className="project">
                 <b>{project.name}</b><br/>
                 <ul>
