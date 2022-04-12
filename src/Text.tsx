@@ -58,7 +58,7 @@ const text = {
             'wymaga dużego zaangażowania i samozaparcia, ale wierzę że warto. '+
             'Chcę znaleźć pracę, w której będę mógł dalej rozwijać swoje umiejętności, ale znacznie szybciej. '+
             'Wybrałem programowanie, ponieważ jest to najbardziej rozwijająca się dziedzina. '+
-            'Uwielbiam wyzwania, a rozwiązywanie problemów sprawia mi frajdę. Jeżeli szukasz programisty skontaktuj się ze mną'
+            'Uwielbiam wyzwania, a rozwiązywanie problemów sprawia mi frajdę. Jeżeli szukasz programisty skontaktuj się ze mną!'
         },
         footer: {
             title: 'Kontakt',
